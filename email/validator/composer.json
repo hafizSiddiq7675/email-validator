@@ -1,0 +1,17 @@
+{
+    "name": "email/validator",
+    "description": "email/validator",
+    "autoload": {
+        "psr-4": {
+            "Email\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Babar",
+            "email": "hafiz.siddiq.umer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
